@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label> Enter the date of accident:</label><input type="date" id="date"/><br>
+    <label>Enter latitude of incident:</label><input type="text" id="lat"/><br>
+    <label>Enter longitude of incident:</label><input type="text" id="lon"/><br>
+    <label>Color of the car(if known):</label><input type="text" id="color"><br>
+    
+    <button id="submit">Submit</button>
+    <div id="carDetsDiv"></div>
+    <script>
+        async function fetchTest(){
+            const lat=document.querySelector('#lat').value;
+            const lon = document.querySelector('#lon').value;
+            const date = document.querySelector('#date').value;
+            const color = document.querySelector('#color').value;
+            const data = {lat,lon,date,color};
+            const options = {
+                method:'POST',
+                headers:{
+                    "Content-type":"Application/json"
+                },
+                body:JSON.stringify(data)
+            }
+            fetch('/con',options).then(resp=>resp.json()).then(data=>{
+                // console.log(data)
+                data.forEach(element =>{
+                    console.log(element);
+                    let carDets = document.createElement('span');
+                    carDets.innerText= `The suspected car is a ${element.car.color} ${element.car.car_make} ${element.car.car_model} with licence plate ${element.car.licence_plat}`;
+                    document.querySelector('#carDetsDiv').append(carDets);
+                })
+            });
+
+        }
+        document.querySelector('#submit').addEventListener('click', fetchTest);
+    </script>
+
+</body>
+</html>

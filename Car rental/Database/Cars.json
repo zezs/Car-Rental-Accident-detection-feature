@@ -1,0 +1,1301 @@
+[{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd19b"
+  },
+  "id": 1,
+  "licence_plat": "3D7TP2HT5AG083625",
+  "car_make": "Toyota",
+  "car_model": "Corolla",
+  "year": 2009,
+  "color": "Teal",
+  "status": 0,
+  "photo": "http://dummyimage.com/188x185.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd19c"
+  },
+  "id": 2,
+  "licence_plat": "1YVHZ8BH0A5720388",
+  "car_make": "Subaru",
+  "car_model": "Legacy",
+  "year": 2002,
+  "color": "Blue",
+  "status": 0,
+  "photo": "http://dummyimage.com/172x245.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd19d"
+  },
+  "id": 3,
+  "licence_plat": "4T1BK1EB4FU315447",
+  "car_make": "Ford",
+  "car_model": "Courier",
+  "year": 1989,
+  "color": "Puce",
+  "status": 0,
+  "photo": "http://dummyimage.com/240x210.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd19e"
+  },
+  "id": 4,
+  "licence_plat": "WBANA53584B443561",
+  "car_make": "Pontiac",
+  "car_model": "GTO",
+  "year": 1966,
+  "color": "Khaki",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd19f"
+  },
+  "id": 5,
+  "licence_plat": "1GYS4RKJ3FR930481",
+  "car_make": "Ford",
+  "car_model": "Transit Connect",
+  "year": 2011,
+  "color": "Violet",
+  "status": 1,
+  "photo": "http://dummyimage.com/120x133.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a0"
+  },
+  "id": 6,
+  "licence_plat": "5N1BA0NE5FN424713",
+  "car_make": "Kia",
+  "car_model": "Sportage",
+  "year": 2005,
+  "color": "Green",
+  "status": 1,
+  "photo": "http://dummyimage.com/233x107.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a1"
+  },
+  "id": 7,
+  "licence_plat": "3FAHP0CG0BR126357",
+  "car_make": "Dodge",
+  "car_model": "Viper RT/10",
+  "year": 1993,
+  "color": "Pink",
+  "status": 0,
+  "photo": "http://dummyimage.com/224x108.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a2"
+  },
+  "id": 8,
+  "licence_plat": "1N6AD0CU5FN323010",
+  "car_make": "Ford",
+  "car_model": "F250",
+  "year": 1992,
+  "color": "Orange",
+  "status": 0,
+  "photo": "http://dummyimage.com/133x210.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a3"
+  },
+  "id": 9,
+  "licence_plat": "JTHBK1EG3C2635624",
+  "car_make": "Mazda",
+  "car_model": "Protege",
+  "year": 1997,
+  "color": "Mauv",
+  "status": 1,
+  "photo": "http://dummyimage.com/146x135.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a4"
+  },
+  "id": 10,
+  "licence_plat": "WBAPN7C5XBA701056",
+  "car_make": "Porsche",
+  "car_model": "911",
+  "year": 1991,
+  "color": "Mauv",
+  "status": 1,
+  "photo": "http://dummyimage.com/165x146.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a5"
+  },
+  "id": 11,
+  "licence_plat": "WBAVD33546K477012",
+  "car_make": "Ferrari",
+  "car_model": "599 GTB Fiorano",
+  "year": 2010,
+  "color": "Violet",
+  "status": 1,
+  "photo": "http://dummyimage.com/204x177.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a6"
+  },
+  "id": 12,
+  "licence_plat": "1G6DA8EY3B0292440",
+  "car_make": "Cadillac",
+  "car_model": "Eldorado",
+  "year": 1995,
+  "color": "Green",
+  "status": 0,
+  "photo": "http://dummyimage.com/146x132.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a7"
+  },
+  "id": 13,
+  "licence_plat": "SCFEBBAK6CG762533",
+  "car_make": "Volkswagen",
+  "car_model": "GTI",
+  "year": 1986,
+  "color": "Maroon",
+  "status": 0,
+  "photo": "http://dummyimage.com/226x191.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a8"
+  },
+  "id": 14,
+  "licence_plat": "1C4RDJAG1CC733139",
+  "car_make": "Nissan",
+  "car_model": "Maxima",
+  "year": 2001,
+  "color": "Maroon",
+  "status": 0,
+  "photo": "http://dummyimage.com/184x206.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1a9"
+  },
+  "id": 15,
+  "licence_plat": "5UXFA93564L337231",
+  "car_make": "Audi",
+  "car_model": "S6",
+  "year": 2002,
+  "color": "Green",
+  "status": 1,
+  "photo": "http://dummyimage.com/229x198.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1aa"
+  },
+  "id": 16,
+  "licence_plat": "JA4AS2AW5AZ710614",
+  "car_make": "Land Rover",
+  "car_model": "Discovery",
+  "year": 2003,
+  "color": "Puce",
+  "status": 0,
+  "photo": "http://dummyimage.com/220x165.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ab"
+  },
+  "id": 17,
+  "licence_plat": "3GTU2YEJ1CG428672",
+  "car_make": "Buick",
+  "car_model": "Estate",
+  "year": 1989,
+  "color": "Yellow",
+  "status": 0,
+  "photo": "http://dummyimage.com/115x160.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ac"
+  },
+  "id": 18,
+  "licence_plat": "5N1BA0NC6FN288378",
+  "car_make": "Volkswagen",
+  "car_model": "Eurovan",
+  "year": 2001,
+  "color": "Mauv",
+  "status": 1,
+  "photo": "http://dummyimage.com/152x117.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ad"
+  },
+  "id": 19,
+  "licence_plat": "SALGR2VF9FA426424",
+  "car_make": "Dodge",
+  "car_model": "Stealth",
+  "year": 1992,
+  "color": "Pink",
+  "status": 1,
+  "photo": "http://dummyimage.com/134x230.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ae"
+  },
+  "id": 20,
+  "licence_plat": "5NPET4AC9AH485059",
+  "car_make": "Mazda",
+  "car_model": "MX-6",
+  "year": 1989,
+  "color": "Crimson",
+  "status": 0,
+  "photo": "http://dummyimage.com/110x171.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1af"
+  },
+  "id": 21,
+  "licence_plat": "WBADX1C59DJ090871",
+  "car_make": "Aston Martin",
+  "car_model": "DB9 Volante",
+  "year": 2006,
+  "color": "Turquoise",
+  "status": 0,
+  "photo": "http://dummyimage.com/100x194.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b0"
+  },
+  "id": 22,
+  "licence_plat": "3C63D3HL7CG532354",
+  "car_make": "Bentley",
+  "car_model": "Continental Super",
+  "year": 2011,
+  "color": "Maroon",
+  "status": 1,
+  "photo": "http://dummyimage.com/105x133.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b1"
+  },
+  "id": 23,
+  "licence_plat": "1FTSW2A51AE386930",
+  "car_make": "Chevrolet",
+  "car_model": "Impala SS",
+  "year": 1995,
+  "color": "Green",
+  "status": 0,
+  "photo": "http://dummyimage.com/228x183.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b2"
+  },
+  "id": 24,
+  "licence_plat": "WBSWL93578P732151",
+  "car_make": "Plymouth",
+  "car_model": "Laser",
+  "year": 1990,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/141x154.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b3"
+  },
+  "id": 25,
+  "licence_plat": "JH4KA96633C361441",
+  "car_make": "Mazda",
+  "car_model": "Navajo",
+  "year": 1991,
+  "color": "Purple",
+  "status": 1,
+  "photo": "http://dummyimage.com/120x138.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b4"
+  },
+  "id": 26,
+  "licence_plat": "SCBGC3ZA9EC308666",
+  "car_make": "Chevrolet",
+  "car_model": "Silverado 2500",
+  "year": 2010,
+  "color": "Crimson",
+  "status": 0,
+  "photo": "http://dummyimage.com/138x207.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b5"
+  },
+  "id": 27,
+  "licence_plat": "WDDEJ7KB0AA663984",
+  "car_make": "Land Rover",
+  "car_model": "LR2",
+  "year": 2011,
+  "color": "Puce",
+  "status": 0,
+  "photo": "http://dummyimage.com/239x245.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b6"
+  },
+  "id": 28,
+  "licence_plat": "JN8AZ1MU1AW027997",
+  "car_make": "Dodge",
+  "car_model": "Charger",
+  "year": 2007,
+  "color": "Blue",
+  "status": 0,
+  "photo": "http://dummyimage.com/111x231.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b7"
+  },
+  "id": 29,
+  "licence_plat": "WA1WMBFE4BD766445",
+  "car_make": "Porsche",
+  "car_model": "Panamera",
+  "year": 2013,
+  "color": "Puce",
+  "status": 1,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b8"
+  },
+  "id": 30,
+  "licence_plat": "1FTEW1CM6BF016161",
+  "car_make": "Jeep",
+  "car_model": "Liberty",
+  "year": 2006,
+  "color": "Purple",
+  "status": 1,
+  "photo": "http://dummyimage.com/135x240.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1b9"
+  },
+  "id": 31,
+  "licence_plat": "5J8TB4H54GL344794",
+  "car_make": "Saab",
+  "car_model": "9-4X",
+  "year": 2011,
+  "color": "Mauv",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ba"
+  },
+  "id": 32,
+  "licence_plat": "WA1WGBFP3EA755032",
+  "car_make": "Saab",
+  "car_model": "9-5",
+  "year": 2007,
+  "color": "Crimson",
+  "status": 1,
+  "photo": "http://dummyimage.com/155x168.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1bb"
+  },
+  "id": 33,
+  "licence_plat": "JN8AZ1MU3DW713947",
+  "car_make": "Volkswagen",
+  "car_model": "Touareg",
+  "year": 2006,
+  "color": "Goldenrod",
+  "status": 0,
+  "photo": "http://dummyimage.com/179x148.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1bc"
+  },
+  "id": 34,
+  "licence_plat": "SCFEBBAK0DG350688",
+  "car_make": "Jaguar",
+  "car_model": "XJ Series",
+  "year": 1995,
+  "color": "Purple",
+  "status": 0,
+  "photo": "http://dummyimage.com/127x114.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1bd"
+  },
+  "id": 35,
+  "licence_plat": "1GYEK63N66R723909",
+  "car_make": "Chevrolet",
+  "car_model": "Suburban 1500",
+  "year": 1995,
+  "color": "Goldenrod",
+  "status": 0,
+  "photo": "http://dummyimage.com/181x135.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1be"
+  },
+  "id": 36,
+  "licence_plat": "5UXFB53596L112052",
+  "car_make": "Mazda",
+  "car_model": "MPV",
+  "year": 1992,
+  "color": "Aquamarine",
+  "status": 1,
+  "photo": "http://dummyimage.com/189x150.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1bf"
+  },
+  "id": 37,
+  "licence_plat": "WA1LGAFE8FD054403",
+  "car_make": "Toyota",
+  "car_model": "4Runner",
+  "year": 1994,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/133x184.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c0"
+  },
+  "id": 38,
+  "licence_plat": "WA1VKBFP9AA179578",
+  "car_make": "Mitsubishi",
+  "car_model": "Lancer Evolution",
+  "year": 2011,
+  "color": "Red",
+  "status": 1,
+  "photo": "http://dummyimage.com/223x242.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c1"
+  },
+  "id": 39,
+  "licence_plat": "JN8CS1MU7FM470249",
+  "car_make": "BMW",
+  "car_model": "325",
+  "year": 2005,
+  "color": "Blue",
+  "status": 1,
+  "photo": "http://dummyimage.com/152x171.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c2"
+  },
+  "id": 40,
+  "licence_plat": "1N6AD0CU4BC067366",
+  "car_make": "Ford",
+  "car_model": "E150",
+  "year": 2011,
+  "color": "Crimson",
+  "status": 0,
+  "photo": "http://dummyimage.com/210x222.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c3"
+  },
+  "id": 41,
+  "licence_plat": "5FPYK1F21AB986046",
+  "car_make": "Dodge",
+  "car_model": "Ram 1500",
+  "year": 1997,
+  "color": "Goldenrod",
+  "status": 1,
+  "photo": "http://dummyimage.com/203x157.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c4"
+  },
+  "id": 42,
+  "licence_plat": "1G6KS54Y93U682621",
+  "car_make": "Chevrolet",
+  "car_model": "Cavalier",
+  "year": 1994,
+  "color": "Yellow",
+  "status": 0,
+  "photo": "http://dummyimage.com/209x106.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c5"
+  },
+  "id": 43,
+  "licence_plat": "3GYEK62867G825238",
+  "car_make": "Volkswagen",
+  "car_model": "Golf",
+  "year": 2012,
+  "color": "Mauv",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c6"
+  },
+  "id": 44,
+  "licence_plat": "19XFB4F2XFE310788",
+  "car_make": "Land Rover",
+  "car_model": "Range Rover",
+  "year": 2004,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/196x225.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c7"
+  },
+  "id": 45,
+  "licence_plat": "1N6AA0CA5FN102862",
+  "car_make": "Mercury",
+  "car_model": "Sable",
+  "year": 2000,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/216x246.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c8"
+  },
+  "id": 46,
+  "licence_plat": "1G6DL8EV4A0050710",
+  "car_make": "Lexus",
+  "car_model": "GS",
+  "year": 2005,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/197x209.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1c9"
+  },
+  "id": 47,
+  "licence_plat": "KNAGM4A72B5353798",
+  "car_make": "Mazda",
+  "car_model": "B-Series",
+  "year": 1997,
+  "color": "Mauv",
+  "status": 0,
+  "photo": "http://dummyimage.com/170x107.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ca"
+  },
+  "id": 48,
+  "licence_plat": "1FMJK1G52DE348258",
+  "car_make": "Mitsubishi",
+  "car_model": "Precis",
+  "year": 1993,
+  "color": "Crimson",
+  "status": 0,
+  "photo": "http://dummyimage.com/164x245.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1cb"
+  },
+  "id": 49,
+  "licence_plat": "JH4NA12634T769797",
+  "car_make": "Ford",
+  "car_model": "Econoline E350",
+  "year": 1996,
+  "color": "Puce",
+  "status": 1,
+  "photo": "http://dummyimage.com/113x228.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1cc"
+  },
+  "id": 50,
+  "licence_plat": "WBA3B5C55DF664483",
+  "car_make": "Mercedes-Benz",
+  "car_model": "S-Class",
+  "year": 2008,
+  "color": "Red",
+  "status": 0,
+  "photo": "http://dummyimage.com/240x162.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1cd"
+  },
+  "id": 51,
+  "licence_plat": "19UUA86239A170514",
+  "car_make": "BMW",
+  "car_model": "6 Series",
+  "year": 2010,
+  "color": "Green",
+  "status": 0,
+  "photo": "http://dummyimage.com/250x242.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ce"
+  },
+  "id": 52,
+  "licence_plat": "YV4852CT3A1646678",
+  "car_make": "Maserati",
+  "car_model": "Quattroporte",
+  "year": 1985,
+  "color": "Violet",
+  "status": 0,
+  "photo": "http://dummyimage.com/209x180.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1cf"
+  },
+  "id": 53,
+  "licence_plat": "WA1CGBFE1BD535433",
+  "car_make": "Mercedes-Benz",
+  "car_model": "M-Class",
+  "year": 2002,
+  "color": "Violet",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d0"
+  },
+  "id": 54,
+  "licence_plat": "2C4RDGBG3FR334133",
+  "car_make": "Chevrolet",
+  "car_model": "Tahoe",
+  "year": 2002,
+  "color": "Yellow",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d1"
+  },
+  "id": 55,
+  "licence_plat": "JN8AF5MR6CT547208",
+  "car_make": "Land Rover",
+  "car_model": "Discovery Series II",
+  "year": 2002,
+  "color": "Puce",
+  "status": 0,
+  "photo": "http://dummyimage.com/150x165.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d2"
+  },
+  "id": 56,
+  "licence_plat": "1C4SDJET0CC565440",
+  "car_make": "Dodge",
+  "car_model": "Ram 3500 Club",
+  "year": 1996,
+  "color": "Maroon",
+  "status": 0,
+  "photo": "http://dummyimage.com/222x250.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d3"
+  },
+  "id": 57,
+  "licence_plat": "WAUCD64B74N482326",
+  "car_make": "Nissan",
+  "car_model": "GT-R",
+  "year": 2009,
+  "color": "Blue",
+  "status": 0,
+  "photo": "http://dummyimage.com/205x123.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d4"
+  },
+  "id": 58,
+  "licence_plat": "1C6RD6JT2CS413464",
+  "car_make": "Suzuki",
+  "car_model": "Grand Vitara",
+  "year": 2004,
+  "color": "Yellow",
+  "status": 1,
+  "photo": "http://dummyimage.com/229x160.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d5"
+  },
+  "id": 59,
+  "licence_plat": "1FTWW3A51AE176156",
+  "car_make": "Mitsubishi",
+  "car_model": "Pajero",
+  "year": 2005,
+  "color": "Yellow",
+  "status": 1,
+  "photo": "http://dummyimage.com/126x244.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d6"
+  },
+  "id": 60,
+  "licence_plat": "WAUVT54B73N499079",
+  "car_make": "Hyundai",
+  "car_model": "Accent",
+  "year": 1995,
+  "color": "Blue",
+  "status": 0,
+  "photo": "http://dummyimage.com/135x215.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d7"
+  },
+  "id": 61,
+  "licence_plat": "YV126MEC6F1957604",
+  "car_make": "Mercedes-Benz",
+  "car_model": "500SEC",
+  "year": 1993,
+  "color": "Orange",
+  "status": 0,
+  "photo": "http://dummyimage.com/177x104.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d8"
+  },
+  "id": 62,
+  "licence_plat": "JN8AZ1MU1DW567483",
+  "car_make": "Mitsubishi",
+  "car_model": "Montero Sport",
+  "year": 1997,
+  "color": "Red",
+  "status": 1,
+  "photo": "http://dummyimage.com/199x198.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1d9"
+  },
+  "id": 63,
+  "licence_plat": "2B3CK5CT9AH082562",
+  "car_make": "Land Rover",
+  "car_model": "LR4",
+  "year": 2010,
+  "color": "Turquoise",
+  "status": 0,
+  "photo": "http://dummyimage.com/212x232.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1da"
+  },
+  "id": 64,
+  "licence_plat": "JTDKDTB32E1625345",
+  "car_make": "Dodge",
+  "car_model": "Shadow",
+  "year": 1994,
+  "color": "Purple",
+  "status": 1,
+  "photo": "http://dummyimage.com/186x122.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1db"
+  },
+  "id": 65,
+  "licence_plat": "WBA1M1C50FV407041",
+  "car_make": "Mercury",
+  "car_model": "Montego",
+  "year": 2007,
+  "color": "Blue",
+  "status": 1,
+  "photo": "http://dummyimage.com/113x101.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1dc"
+  },
+  "id": 66,
+  "licence_plat": "WBAUP73599V522233",
+  "car_make": "Cadillac",
+  "car_model": "Eldorado",
+  "year": 1994,
+  "color": "Aquamarine",
+  "status": 1,
+  "photo": "http://dummyimage.com/220x168.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1dd"
+  },
+  "id": 67,
+  "licence_plat": "2B3CJ5DT8AH884361",
+  "car_make": "Mitsubishi",
+  "car_model": "Mirage",
+  "year": 1999,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/136x240.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1de"
+  },
+  "id": 68,
+  "licence_plat": "1FTSW3A55AE978563",
+  "car_make": "Chevrolet",
+  "car_model": "Silverado 3500",
+  "year": 2009,
+  "color": "Khaki",
+  "status": 0,
+  "photo": "http://dummyimage.com/123x242.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1df"
+  },
+  "id": 69,
+  "licence_plat": "SALFR2BG5DH809001",
+  "car_make": "Mitsubishi",
+  "car_model": "GTO",
+  "year": 1991,
+  "color": "Orange",
+  "status": 0,
+  "photo": "http://dummyimage.com/120x129.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e0"
+  },
+  "id": 70,
+  "licence_plat": "WAUJT58EX4A694184",
+  "car_make": "Porsche",
+  "car_model": "924 S",
+  "year": 1987,
+  "color": "Fuscia",
+  "status": 1,
+  "photo": "http://dummyimage.com/247x232.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e1"
+  },
+  "id": 71,
+  "licence_plat": "5UXZW0C51C0086158",
+  "car_make": "Maybach",
+  "car_model": "57",
+  "year": 2009,
+  "color": "Orange",
+  "status": 0,
+  "photo": "http://dummyimage.com/137x194.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e2"
+  },
+  "id": 72,
+  "licence_plat": "SCFAD01A17G271796",
+  "car_make": "Toyota",
+  "car_model": "Land Cruiser",
+  "year": 1998,
+  "color": "Purple",
+  "status": 1,
+  "photo": "http://dummyimage.com/116x152.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e3"
+  },
+  "id": 73,
+  "licence_plat": "1G6KF549X2U796879",
+  "car_make": "Toyota",
+  "car_model": "Previa",
+  "year": 1994,
+  "color": "Mauv",
+  "status": 1,
+  "photo": "http://dummyimage.com/237x219.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e4"
+  },
+  "id": 74,
+  "licence_plat": "JHMFA3F22BS489055",
+  "car_make": "Ford",
+  "car_model": "LTD Crown Victoria",
+  "year": 1985,
+  "color": "Puce",
+  "status": 1,
+  "photo": "http://dummyimage.com/214x126.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e5"
+  },
+  "id": 75,
+  "licence_plat": "KNAFZ6A39F5773621",
+  "car_make": "Ford",
+  "car_model": "Taurus",
+  "year": 2000,
+  "color": "Purple",
+  "status": 0,
+  "photo": "http://dummyimage.com/101x104.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e6"
+  },
+  "id": 76,
+  "licence_plat": "1G4PP5SK0C4110075",
+  "car_make": "Audi",
+  "car_model": "A4",
+  "year": 2004,
+  "color": "Aquamarine",
+  "status": 1,
+  "photo": "http://dummyimage.com/216x247.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e7"
+  },
+  "id": 77,
+  "licence_plat": "JN8AE2KP8C9692928",
+  "car_make": "Chevrolet",
+  "car_model": "Corvette",
+  "year": 2007,
+  "color": "Puce",
+  "status": 1,
+  "photo": "http://dummyimage.com/137x108.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e8"
+  },
+  "id": 78,
+  "licence_plat": "19VDE1F3XDE109744",
+  "car_make": "Mercedes-Benz",
+  "car_model": "S-Class",
+  "year": 1991,
+  "color": "Yellow",
+  "status": 1,
+  "photo": "http://dummyimage.com/151x206.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1e9"
+  },
+  "id": 79,
+  "licence_plat": "5GAKRCED1BJ770606",
+  "car_make": "Mercury",
+  "car_model": "Marquis",
+  "year": 1985,
+  "color": "Goldenrod",
+  "status": 0,
+  "photo": "http://dummyimage.com/102x173.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ea"
+  },
+  "id": 80,
+  "licence_plat": "WAUKF78E28A467147",
+  "car_make": "Lincoln",
+  "car_model": "LS",
+  "year": 2000,
+  "color": "Teal",
+  "status": 1,
+  "photo": "http://dummyimage.com/173x156.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1eb"
+  },
+  "id": 81,
+  "licence_plat": "1FTFW1E87AK118322",
+  "car_make": "Mazda",
+  "car_model": "B-Series",
+  "year": 2001,
+  "color": "Violet",
+  "status": 1,
+  "photo": "http://dummyimage.com/170x144.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ec"
+  },
+  "id": 82,
+  "licence_plat": "19UUA755X8A331087",
+  "car_make": "Buick",
+  "car_model": "LeSabre",
+  "year": 2005,
+  "color": "Yellow",
+  "status": 1,
+  "photo": "http://dummyimage.com/153x223.png/dddddd/000000",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ed"
+  },
+  "id": 83,
+  "licence_plat": "1GYS3HEF5CR702546",
+  "car_make": "Mitsubishi",
+  "car_model": "Mirage",
+  "year": 1984,
+  "color": "Violet",
+  "status": 0,
+  "photo": "http://dummyimage.com/242x102.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ee"
+  },
+  "id": 84,
+  "licence_plat": "19XFA1F27AE874540",
+  "car_make": "Jaguar",
+  "car_model": "XK Series",
+  "year": 2000,
+  "color": "Turquoise",
+  "status": 1,
+  "photo": "http://dummyimage.com/148x249.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1ef"
+  },
+  "id": 85,
+  "licence_plat": "3FAHP0CG0AR293719",
+  "car_make": "Porsche",
+  "car_model": "914",
+  "year": 1970,
+  "color": "Fuscia",
+  "status": 0,
+  "photo": "http://dummyimage.com/210x218.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f0"
+  },
+  "id": 86,
+  "licence_plat": "SAJWA8JH8EM275661",
+  "car_make": "Audi",
+  "car_model": "5000CS Quattro",
+  "year": 1986,
+  "color": "Goldenrod",
+  "status": 1,
+  "photo": "http://dummyimage.com/160x195.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f1"
+  },
+  "id": 87,
+  "licence_plat": "3VWKZ7AJ0BM564288",
+  "car_make": "Jeep",
+  "car_model": "Cherokee",
+  "year": 1999,
+  "color": "Crimson",
+  "status": 1,
+  "photo": "http://dummyimage.com/183x112.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f2"
+  },
+  "id": 88,
+  "licence_plat": "1FADP5CU0EL083918",
+  "car_make": "Mazda",
+  "car_model": "Navajo",
+  "year": 1993,
+  "color": "Red",
+  "status": 1,
+  "photo": "http://dummyimage.com/238x114.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f3"
+  },
+  "id": 89,
+  "licence_plat": "4T3BA3BB9FU300940",
+  "car_make": "Jaguar",
+  "car_model": "XJ",
+  "year": 2006,
+  "color": "Mauv",
+  "status": 0,
+  "photo": "http://dummyimage.com/122x137.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f4"
+  },
+  "id": 90,
+  "licence_plat": "WA1WKAFP3BA409146",
+  "car_make": "Mazda",
+  "car_model": "MX-5",
+  "year": 2008,
+  "color": "Red",
+  "status": 1,
+  "photo": "http://dummyimage.com/116x223.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f5"
+  },
+  "id": 91,
+  "licence_plat": "JTEBU5JR3E5674298",
+  "car_make": "Nissan",
+  "car_model": "Pathfinder",
+  "year": 2003,
+  "color": "Red",
+  "status": 0,
+  "photo": "http://dummyimage.com/228x179.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f6"
+  },
+  "id": 92,
+  "licence_plat": "WVWAA7AJ1BW673879",
+  "car_make": "Volkswagen",
+  "car_model": "Passat",
+  "year": 2002,
+  "color": "Puce",
+  "status": 1,
+  "photo": "http://dummyimage.com/147x107.png/ff4444/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f7"
+  },
+  "id": 93,
+  "licence_plat": "1G6DF8E53D0226187",
+  "car_make": "Lexus",
+  "car_model": "LX",
+  "year": 1997,
+  "color": "Fuscia",
+  "status": 0,
+  "photo": "http://dummyimage.com/241x219.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f8"
+  },
+  "id": 94,
+  "licence_plat": "WAUSH94F87N151506",
+  "car_make": "GMC",
+  "car_model": "Savana 1500",
+  "year": 2005,
+  "color": "Aquamarine",
+  "status": 1,
+  "photo": "http://dummyimage.com/183x155.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1f9"
+  },
+  "id": 95,
+  "licence_plat": "WAUUL98E07A679458",
+  "car_make": "Ford",
+  "car_model": "Ranger",
+  "year": 1986,
+  "color": "Turquoise",
+  "status": 0,
+  "photo": null,
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1fa"
+  },
+  "id": 96,
+  "licence_plat": "KMHDB8AE0AU677317",
+  "car_make": "Geo",
+  "car_model": "Metro",
+  "year": 1994,
+  "color": "Red",
+  "status": 1,
+  "photo": "http://dummyimage.com/120x191.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1fb"
+  },
+  "id": 97,
+  "licence_plat": "WBAGN83433D581808",
+  "car_make": "Chevrolet",
+  "car_model": "Venture",
+  "year": 2005,
+  "color": "Turquoise",
+  "status": 0,
+  "photo": "http://dummyimage.com/134x132.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1fc"
+  },
+  "id": 98,
+  "licence_plat": "KNAFU5A21B5471699",
+  "car_make": "Volkswagen",
+  "car_model": "GLI",
+  "year": 2008,
+  "color": "Orange",
+  "status": 0,
+  "photo": "http://dummyimage.com/153x141.png/5fa2dd/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1fd"
+  },
+  "id": 99,
+  "licence_plat": "JTHBL5EF3F1408505",
+  "car_make": "Ford",
+  "car_model": "Freestyle",
+  "year": 2006,
+  "color": "Aquamarine",
+  "status": 1,
+  "photo": "http://dummyimage.com/237x199.png/cc0000/ffffff",
+  "location": "Germany"
+},{
+  "_id": {
+    "$oid": "626bbeda7d34892edb3fd1fe"
+  },
+  "id": 100,
+  "licence_plat": "WAURFAFR4EA709093",
+  "car_make": "Ford",
+  "car_model": "F350",
+  "year": 2011,
+  "color": "Maroon",
+  "status": 0,
+  "photo": "http://dummyimage.com/134x138.png/5fa2dd/ffffff",
+  "location": "Germany"
+}]
